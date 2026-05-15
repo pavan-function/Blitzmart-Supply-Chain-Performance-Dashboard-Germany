@@ -26,7 +26,8 @@
 BlitzMart is a simulated German e-commerce retailer. This project takes raw transactional data through a complete analytics pipeline — from data generation and cleaning, through SQL and Python analysis, to interactive Tableau dashboards and business recommendations.
 
 **The dataset spans 2022–2024:** 1.5M orders generated (1.39M delivered), 
-~200K customers....
+~200K customers 5,000 products across 8 categories, 6 warehouses, 
+5 shipping carriers, across 15 German cities.
 
 ---
 
@@ -131,6 +132,6 @@ Data Analyst | Business Analyst | Supply Chain Analytics
 
 ## 📝 Notes
 
-The raw CSV files (~250 MB) are not included in this repo due to size. The data generation notebook (`BlitzMart_01_DataGeneration.ipynb`) reproduces the full dataset from scratch. See [`data/README.md`](data/README.md) for the schema and data dictionary.
+The raw CSV files (~250 MB) are not included in this repo due to size. The data generation notebook (`BlitzMart_01_DataGeneration.ipynb`) reproduces the full dataset from scratch. See [`Data/README.md`](Data/README.md) for the schema and data dictionary.
 
 *This is a portfolio project using synthetic data. BlitzMart is fictional; business patterns are benchmarked against publicly known German e-commerce and logistics operations.*
