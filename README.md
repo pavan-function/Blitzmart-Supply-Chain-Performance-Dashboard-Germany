@@ -16,8 +16,8 @@
 | **Sales & Customer Performance** | Revenue, AOV, category mix, geography | [View →](https://public.tableau.com/app/profile/pavan.raj.kotagiri/viz/BlitzMartAnalytics-GermanE-CommerceSupplyChain/SalesCustomerPerformance) |
 | **Supply Chain Operations** | OTIF, warehouse performance, returns | [View →](https://public.tableau.com/app/profile/pavan.raj.kotagiri/viz/BlitzMartAnalytics-GermanE-CommerceSupplyChain/SupplyChainOperation) |
 
-![Sales Dashboard](images/dashboard_sales.png)
-![Supply Chain Dashboard](images/dashboard_supplychain.png)
+![Sales Dashboard](Images/dashboard_sales.png)
+![Supply Chain Dashboard](Images/dashboard_supplychain.png)
 
 ---
 
