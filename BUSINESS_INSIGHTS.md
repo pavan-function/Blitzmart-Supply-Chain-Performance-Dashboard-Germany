@@ -37,7 +37,7 @@ The full 3-year period generated **€2.16B** across **1.39M orders**. Peak mont
 ### 4. 🚚 31.7-point OTIF gap between best and worst carrier
 **DHL delivers 76.5% on-time** vs **GLS at 44.8%** — a **31.7 percentage point gap** across 1.4M shipments. UPS (70%), DPD (67%), and Hermes (54%) sit between.
 
-> **Why it matters:** Every GLS shipment is essentially a coin flip. Consolidating volume away from GLS toward DHL would improve customer NPS without changing prices. Estimated impact: **~80,000 fewer late deliveries per year**.
+> **Why it matters:** Every GLS shipment is essentially a coin flip. Consolidating volume away from GLS toward DHL would improve customer NPS without changing prices. Estimated impact: **~10,000 fewer late deliveries per year (~30,000 across the full analysis period).**.
 
 ---
 
