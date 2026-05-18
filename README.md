@@ -14,11 +14,11 @@ End-to-end analytics project on a fictional German e-commerce retailer. The data
 
 | Dashboard | What's in it | Link |
 |---|---|---|
-| Sales & Customer Performance | Revenue, AOV, category mix, geography | [Open →](https://public.tableau.com/app/profile/pavan.raj.kotagiri/viz/BlitzMartAnalytics-GermanE-CommerceSupplyChain/SalesCustomerPerformance) |
-| Supply Chain Operations | Carrier OTIF, warehouse performance, returns | [Open →](https://public.tableau.com/app/profile/pavan.raj.kotagiri/viz/BlitzMartAnalytics-GermanE-CommerceSupplyChain/SupplyChainOperation) |
+| Sales & Customer Performance | Revenue, AOV, category mix, geography | [Open](https://public.tableau.com/app/profile/pavan.raj.kotagiri/viz/BlitzMartAnalytics-GermanE-CommerceSupplyChain/SalesCustomerPerformance) |
+| Supply Chain Operations | Carrier OTIF, warehouse performance, returns | [Open](https://public.tableau.com/app/profile/pavan.raj.kotagiri/viz/BlitzMartAnalytics-GermanE-CommerceSupplyChain/SupplyChainOperation) |
 
-![Sales Dashboard](images/dashboard_sales.png)
-![Supply Chain Dashboard](images/dashboard_supplychain.png)
+![Sales Dashboard](Images/dashboard_sales.png)
+![Supply Chain Dashboard](Images/dashboard_supplychain.png)
 
 ---
 
@@ -133,6 +133,6 @@ Data Analyst | Business Analyst | Supply Chain Analytics
 
 ## Notes
 
-Raw CSV files aren't committed (about 250 MB total, hits GitHub's limits). The data generation notebook rebuilds the full dataset from scratch in around 5 minutes. Schema details: [data/README.md](data/README.md).
+Raw CSV files aren't committed (about 250 MB total, hits GitHub's limits). The data generation notebook rebuilds the full dataset from scratch in around 5 minutes. Schema details: [data/README.md](Data/README.md).
 
 This is a portfolio project on synthetic data. BlitzMart is fictional. The business patterns are benchmarked against publicly known German e-commerce and logistics operations.
