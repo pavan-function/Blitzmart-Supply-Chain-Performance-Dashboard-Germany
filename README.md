@@ -65,16 +65,16 @@ Full breakdown: [BUSINESS_INSIGHTS.md](BUSINESS_INSIGHTS.md)
 blitzmart-analytics/
 ├── README.md
 ├── BUSINESS_INSIGHTS.md
-├── notebooks/
+├── Notebooks/
 │   ├── BlitzMart_01_DataGeneration.ipynb
 │   ├── BlitzMart_02_SQL_Analysis.ipynb
 │   └── BlitzMart_03_Python_Analysis.ipynb
-├── sql/
+├── SQL/
 │   └── analysis_queries.sql
-├── images/
+├── Images/
 │   ├── dashboard_sales.png
 │   └── dashboard_supplychain.png
-└── data/
+└── Data/
     └── README.md
 ```
 
